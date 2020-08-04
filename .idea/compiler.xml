@@ -18,7 +18,7 @@
       <module name="Chapter10" options="-parameters" />
       <module name="Chapter11" options="-parameters" />
       <module name="Chapter12" options="-parameters" />
-      <module name="Chapter13" options="-parameters" />
+      <module name="Chapter13" options="-parameters -extdirs D:\myworkspace\Chapter13/lib" />
     </option>
   </component>
 </project>
