@@ -1,0 +1,6 @@
+course\bean\User.class
+course\hello\SampleController.class
+course\server\MyPostMethod.class
+course\server\MyGetMethod.class
+Application.class
+course\config\SwaggerConfig.class

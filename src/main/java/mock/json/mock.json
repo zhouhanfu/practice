@@ -1,0 +1,27 @@
+[
+  {
+    "description": "没有参数的get方法",
+    "request": {
+      "uri": "/get",
+      "method": "get"
+    },
+    "response": {
+      "text": "没有参数的get方法"
+    }
+  },
+
+  {
+    "description": "带参数的get方法",
+    "request": {
+      "uri": "/getparama",
+      "queries": {
+        "name": "zhangsan",
+        "age": "18"
+      },
+      "method": "get"
+    },
+    "response": {
+      "text": "这是带参数的get方法"
+    }
+  }
+]
